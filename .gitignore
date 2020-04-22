@@ -1,0 +1,11 @@
+# ignore safe-states of notebooks
+*.ipynb_checkpoints*
+
+# ignore converted notebooks
+# *.html
+
+# too big file
+UE3/faces94.csv
+
+# zipped image data
+# UE7/fashion-mnist/*
